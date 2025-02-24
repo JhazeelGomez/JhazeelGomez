@@ -13,7 +13,7 @@ Creación de dashboards | Visualización de datos | Análisis exploratorio
 
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
+<img src="GitHub - singhrahul7874/LinkedinJobAnalysis: This repository presents an end-to-end analysis of LinkedIn's professional networking platform's Jobs section. The project aims to extract over 500 job details from LinkedIn's website and analyze it.="300">
 </h1><br>
 
 
