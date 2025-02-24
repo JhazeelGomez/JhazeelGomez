@@ -17,8 +17,7 @@
     <a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-    <a>
- <img decoding="async" src="https://1000marcas.net/wp-content/uploads/2022/04/Tableau-Logo-1536x864.png" alt="Tableu"/>
+
   </a>
 
 </div>
