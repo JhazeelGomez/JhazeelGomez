@@ -18,4 +18,3 @@ Creación de dashboards | Visualización de datos | Análisis exploratorio
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VY4LUPAovagBPnnvMH2x1Q.jpeg" width="600">
 </h1><br>
 
-mas
