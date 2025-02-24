@@ -7,20 +7,6 @@
 🛠️ Experiencia en la creación de dashboards interactivos, pruebas A/B y análisis de bases de datos con Python (Pandas, Seaborn, Matplotlib), SQL, y Tableau.
 
 🔍 Tecnologías y herramientas:
-<div id="header" align="left">
-    <a>
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
-    <a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
-
-  </a>
-
-</div>
 
 Python | SQL | Tableau | Pandas | Seaborn | Matplotlib
 Creación de dashboards | Visualización de datos | Análisis exploratorio
