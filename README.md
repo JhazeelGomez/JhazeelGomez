@@ -7,7 +7,13 @@
 🛠️ Experiencia en la creación de dashboards interactivos, pruebas A/B y análisis de bases de datos con Python (Pandas, Seaborn, Matplotlib), SQL, y Tableau.
 
 🔍 Tecnologías y herramientas:
+
+<img src="https://github.com/user-attachments/assets/d0ece36a-de05-4e35-8402-7d474e976655" alt="Python" width="100"/>
+
+
+
 Python | SQL | Tableau | Pandas | Seaborn | Matplotlib
+
 Creación de dashboards | Visualización de datos | Análisis exploratorio.
 
 
