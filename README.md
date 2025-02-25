@@ -8,8 +8,13 @@
 
 🔍 Tecnologías y herramientas:
 
-<img src="https://github.com/user-attachments/assets/d0ece36a-de05-4e35-8402-7d474e976655" alt="Python" width="100"/>
-
+<table style="border: 0px solid black;">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d0ece36a-de05-4e35-8402-7d474e976655" alt="Python" width="100"/> </td>
+    <td> <img src="https://github.com/user-attachments/assets/893bee94-7758-452e-a402-5e212bafd9f7" alt="SQL" width="80"/> </td>
+  </tr>
+</table>
+ 
 
 
 Python | SQL | Tableau | Pandas | Seaborn | Matplotlib
