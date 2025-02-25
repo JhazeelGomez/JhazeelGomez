@@ -19,8 +19,8 @@
   </tr>
 </table>
 
-- 📈 Creación de dashboards
-- 📈 Visualización de datos 
+- 🛠️ Creación de dashboards
+- 📉 Visualización de datos 
 - 📈 Análisis exploratorio.
 
 
