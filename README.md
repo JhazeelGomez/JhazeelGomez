@@ -19,9 +19,9 @@
   </tr>
 </table>
 
-- Creación de dashboards
--  Visualización de datos 
-- Análisis exploratorio.
+- 📈 Creación de dashboards
+- 📈 Visualización de datos 
+- 📈 Análisis exploratorio.
 
 
 📂 Explora mis repositorios para ver proyectos prácticos que combinan análisis de datos y soluciones empresariales.
