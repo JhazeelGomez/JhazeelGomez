@@ -8,11 +8,6 @@
 
 🔍 Tecnologías y herramientas:
 
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
 
 <table>
   <tr>
