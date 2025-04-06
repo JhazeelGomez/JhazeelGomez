@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy Jhazeel 
 
-🎓 Estudiante de Licenciatura en Administración de Empresas con formación en análisis de datos a través de un bootcamp en TripleTen.
+🎓 Licenciada en Administración de Empresas con formación en análisis de datos a través de un bootcamp en TripleTen.
 
 📊 Motivada por transformar datos en información valiosa para la toma de decisiones estratégicas.
 
